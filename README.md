@@ -1,1 +1,8 @@
-# data-science
+# Reflective Summary
+
+* Relevant Style Guidelines: As I chose to do a short article with 2-3 plots for my data journalism task, I found that most of the style guidelines were relevant. My project includes a map, a bar chart and a fever/line chart. As such, all the relevant style guidelines for these types of plots are important to my project. Any fonts and text sizes for headlines or bodies of text are also relevant to the written portion of my task. Finally, the recommended colour guidelines were used for all three plots in order to align with the magazine’s design.
+
+* Guidelines used/not used: I followed the sizing and font guidelines for the body text, as well as for all text on my plots. I also followed the colour guidance and the line sizes. Unfortunately, I couldn’t find a lot of information for my map as the main information displayed in my figure was linked to sizes and colours of my points, which was very different to the suggested maps in the guidelines. Similarly, my bar chart was stacked and spread over two categories, so I (slightly) diverted from the guidelines to accommodate for this. Finally, I couldn’t find the necessary font for headlines for free online so I used a similar font instead (Miller Display Roman).
+  
+* Potential alterations: I believe there could be a more efficient/visually appealing way of presenting my stacked bar chart so input from experienced professionals on this would be very useful. I was also hoping to compare Atlantic versus Pacific coral reefs but struggled to do this due to limited (there was only 2-3 years of data collection for each location in the Pacific).  I also would find it really interesting to learn how they would organise the original datasets as there was a lot of interesting information, just split across different years and locations, which I found particularly difficult to sort and visualise.
+
